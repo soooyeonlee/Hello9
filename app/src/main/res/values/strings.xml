@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Hello</string>
+    <string name="btn1">재고 입력</string>
+    <string name="btn2">재고 현황</string>
+    <string name="btn3">판매량 조회</string>
+    <string name="btn4">설정</string>
+    <string name="name_text">IP Inventory</string>
+    <string name="textView">재고 입력</string>
+    <string name="btn1_1">카메라로 찍기</string>
+    <string name="btn1_2">사진 불러오기</string>
+</resources>
